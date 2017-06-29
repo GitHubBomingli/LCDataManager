@@ -1,0 +1,6 @@
+framework module LCDataManager {
+  umbrella header "LCDataManager.h"
+
+  export *
+  module * { export * }
+}
