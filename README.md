@@ -1,5 +1,6 @@
 # LCDataManager
-Pass values or events
+Pass values or events<br>
+任意位置传递值或事件
 
 ## 调用
 LCDataManager.framework
